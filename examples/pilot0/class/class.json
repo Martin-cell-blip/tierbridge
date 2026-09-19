@@ -1,0 +1,1060 @@
+{
+ "name": "IB Economics HL Y12 - Pilot 0",
+ "created_at": "2026-08-25T19:18:22+00:00",
+ "roster": [
+  {
+   "student": "Alex",
+   "eal": true
+  },
+  {
+   "student": "Ben",
+   "eal": false
+  },
+  {
+   "student": "Chloe",
+   "eal": true
+  },
+  {
+   "student": "Daniel",
+   "eal": false
+  },
+  {
+   "student": "Emma",
+   "eal": true
+  },
+  {
+   "student": "Farah",
+   "eal": true
+  },
+  {
+   "student": "George",
+   "eal": false
+  },
+  {
+   "student": "Hannah",
+   "eal": true
+  },
+  {
+   "student": "Ivan",
+   "eal": false
+  },
+  {
+   "student": "Julia",
+   "eal": true
+  },
+  {
+   "student": "Kevin",
+   "eal": false
+  },
+  {
+   "student": "Lina",
+   "eal": true
+  },
+  {
+   "student": "Michael",
+   "eal": false
+  },
+  {
+   "student": "Nora",
+   "eal": true
+  },
+  {
+   "student": "Oliver",
+   "eal": false
+  }
+ ],
+ "sessions": [
+  {
+   "n": 1,
+   "recorded_at": "2026-08-25T19:18:22+00:00",
+   "lesson": {
+    "topic": "Diagnostic - Negative Externalities of Consumption",
+    "functions": {
+     "q1": "concept",
+     "q2": "concept",
+     "q3": "concept",
+     "q4": "calculate",
+     "q5": "calculate",
+     "q6": "calculate",
+     "q7": "interpret",
+     "q8": "interpret",
+     "q9": "interpret",
+     "q10": "interpret"
+    }
+   },
+   "absent": [],
+   "assignments": [
+    {
+     "student": "Alex",
+     "group": "EAL",
+     "mastery": 0.7,
+     "tier": "t2",
+     "language_support": true,
+     "notes": "first assignment",
+     "override": null,
+     "profile": {
+      "skills": {
+       "calculate": {
+        "score": 1.0,
+        "band": "strong"
+       },
+       "concept": {
+        "score": 0.667,
+        "band": "developing"
+       },
+       "interpret": {
+        "score": 0.5,
+        "band": "developing"
+       }
+      },
+      "strengths": [
+       "calculate"
+      ],
+      "limiting": "interpret"
+     },
+     "rationale": "Core: overall readiness 70% (first assignment). Secure: calculate. Limiting skill: interpret (50%). Next: targeted interpretation task on results the student can already compute, with reduced calculation load. Tier determines challenge level; skill profile determines what happens inside the tier."
+    },
+    {
+     "student": "Ben",
+     "group": "non-EAL",
+     "mastery": 1.0,
+     "tier": "t3",
+     "language_support": false,
+     "notes": "first assignment",
+     "override": null,
+     "profile": {
+      "skills": {
+       "calculate": {
+        "score": 1.0,
+        "band": "strong"
+       },
+       "concept": {
+        "score": 1.0,
+        "band": "strong"
+       },
+       "interpret": {
+        "score": 1.0,
+        "band": "strong"
+       }
+      },
+      "strengths": [
+       "calculate",
+       "concept",
+       "interpret"
+      ],
+      "limiting": null
+     },
+     "rationale": "Stretch: overall readiness 100% (first assignment). Secure: calculate, concept, interpret. No limiting skill this cycle - extend within the tier."
+    },
+    {
+     "student": "Chloe",
+     "group": "EAL",
+     "mastery": 0.6,
+     "tier": "t2",
+     "language_support": true,
+     "notes": "first assignment",
+     "override": null,
+     "profile": {
+      "skills": {
+       "calculate": {
+        "score": 0.667,
+        "band": "developing"
+       },
+       "concept": {
+        "score": 0.667,
+        "band": "developing"
+       },
+       "interpret": {
+        "score": 0.5,
+        "band": "developing"
+       }
+      },
+      "strengths": [],
+      "limiting": "_foundational"
+     },
+     "rationale": "Core: overall readiness 60% (first assignment). No secure skill yet. Next: foundations first: re-teach the core concept with scaffolds before calculation and interpretation."
+    },
+    {
+     "student": "Daniel",
+     "group": "non-EAL",
+     "mastery": 0.3,
+     "tier": "t1",
+     "language_support": false,
+     "notes": "first assignment",
+     "override": null,
+     "profile": {
+      "skills": {
+       "calculate": {
+        "score": 0.667,
+        "band": "developing"
+       },
+       "concept": {
+        "score": 0.333,
+        "band": "weak"
+       },
+       "interpret": {
+        "score": 0.0,
+        "band": "weak"
+       }
+      },
+      "strengths": [],
+      "limiting": "_foundational"
+     },
+     "rationale": "Bridge: overall readiness 30% (first assignment). No secure skill yet. Next: foundations first: re-teach the core concept with scaffolds before calculation and interpretation."
+    },
+    {
+     "student": "Emma",
+     "group": "EAL",
+     "mastery": 0.9,
+     "tier": "t3",
+     "language_support": true,
+     "notes": "first assignment",
+     "override": null,
+     "profile": {
+      "skills": {
+       "calculate": {
+        "score": 1.0,
+        "band": "strong"
+       },
+       "concept": {
+        "score": 1.0,
+        "band": "strong"
+       },
+       "interpret": {
+        "score": 0.75,
+        "band": "strong"
+       }
+      },
+      "strengths": [
+       "calculate",
+       "concept",
+       "interpret"
+      ],
+      "limiting": null
+     },
+     "rationale": "Stretch: overall readiness 90% (first assignment). Secure: calculate, concept, interpret. No limiting skill this cycle - extend within the tier."
+    },
+    {
+     "student": "Farah",
+     "group": "EAL",
+     "mastery": 0.8,
+     "tier": "t3",
+     "language_support": true,
+     "notes": "first assignment",
+     "override": null,
+     "profile": {
+      "skills": {
+       "calculate": {
+        "score": 0.667,
+        "band": "developing"
+       },
+       "concept": {
+        "score": 1.0,
+        "band": "strong"
+       },
+       "interpret": {
+        "score": 0.75,
+        "band": "strong"
+       }
+      },
+      "strengths": [
+       "concept",
+       "interpret"
+      ],
+      "limiting": "calculate"
+     },
+     "rationale": "Stretch: overall readiness 80% (first assignment). Secure: concept, interpret. Limiting skill: calculate (67%). Next: worked example, then faded practice of the calculation routine. Tier determines challenge level; skill profile determines what happens inside the tier."
+    },
+    {
+     "student": "George",
+     "group": "non-EAL",
+     "mastery": 0.2,
+     "tier": "t1",
+     "language_support": false,
+     "notes": "first assignment",
+     "override": null,
+     "profile": {
+      "skills": {
+       "calculate": {
+        "score": 0.333,
+        "band": "weak"
+       },
+       "concept": {
+        "score": 0.333,
+        "band": "weak"
+       },
+       "interpret": {
+        "score": 0.0,
+        "band": "weak"
+       }
+      },
+      "strengths": [],
+      "limiting": "_foundational"
+     },
+     "rationale": "Bridge: overall readiness 20% (first assignment). No secure skill yet. Next: foundations first: re-teach the core concept with scaffolds before calculation and interpretation."
+    },
+    {
+     "student": "Hannah",
+     "group": "EAL",
+     "mastery": 0.8,
+     "tier": "t3",
+     "language_support": true,
+     "notes": "first assignment",
+     "override": null,
+     "profile": {
+      "skills": {
+       "calculate": {
+        "score": 0.667,
+        "band": "developing"
+       },
+       "concept": {
+        "score": 1.0,
+        "band": "strong"
+       },
+       "interpret": {
+        "score": 0.75,
+        "band": "strong"
+       }
+      },
+      "strengths": [
+       "concept",
+       "interpret"
+      ],
+      "limiting": "calculate"
+     },
+     "rationale": "Stretch: overall readiness 80% (first assignment). Secure: concept, interpret. Limiting skill: calculate (67%). Next: worked example, then faded practice of the calculation routine. Tier determines challenge level; skill profile determines what happens inside the tier."
+    },
+    {
+     "student": "Ivan",
+     "group": "non-EAL",
+     "mastery": 0.5,
+     "tier": "t2",
+     "language_support": false,
+     "notes": "first assignment",
+     "override": null,
+     "profile": {
+      "skills": {
+       "calculate": {
+        "score": 0.333,
+        "band": "weak"
+       },
+       "concept": {
+        "score": 0.667,
+        "band": "developing"
+       },
+       "interpret": {
+        "score": 0.5,
+        "band": "developing"
+       }
+      },
+      "strengths": [],
+      "limiting": "_foundational"
+     },
+     "rationale": "Core: overall readiness 50% (first assignment). No secure skill yet. Next: foundations first: re-teach the core concept with scaffolds before calculation and interpretation."
+    },
+    {
+     "student": "Julia",
+     "group": "EAL",
+     "mastery": 1.0,
+     "tier": "t3",
+     "language_support": true,
+     "notes": "first assignment",
+     "override": null,
+     "profile": {
+      "skills": {
+       "calculate": {
+        "score": 1.0,
+        "band": "strong"
+       },
+       "concept": {
+        "score": 1.0,
+        "band": "strong"
+       },
+       "interpret": {
+        "score": 1.0,
+        "band": "strong"
+       }
+      },
+      "strengths": [
+       "calculate",
+       "concept",
+       "interpret"
+      ],
+      "limiting": null
+     },
+     "rationale": "Stretch: overall readiness 100% (first assignment). Secure: calculate, concept, interpret. No limiting skill this cycle - extend within the tier."
+    },
+    {
+     "student": "Kevin",
+     "group": "non-EAL",
+     "mastery": 0.7,
+     "tier": "t2",
+     "language_support": false,
+     "notes": "first assignment",
+     "override": null,
+     "profile": {
+      "skills": {
+       "calculate": {
+        "score": 1.0,
+        "band": "strong"
+       },
+       "concept": {
+        "score": 0.667,
+        "band": "developing"
+       },
+       "interpret": {
+        "score": 0.5,
+        "band": "developing"
+       }
+      },
+      "strengths": [
+       "calculate"
+      ],
+      "limiting": "interpret"
+     },
+     "rationale": "Core: overall readiness 70% (first assignment). Secure: calculate. Limiting skill: interpret (50%). Next: targeted interpretation task on results the student can already compute, with reduced calculation load. Tier determines challenge level; skill profile determines what happens inside the tier."
+    },
+    {
+     "student": "Lina",
+     "group": "EAL",
+     "mastery": 0.5,
+     "tier": "t2",
+     "language_support": true,
+     "notes": "first assignment",
+     "override": null,
+     "profile": {
+      "skills": {
+       "calculate": {
+        "score": 0.667,
+        "band": "developing"
+       },
+       "concept": {
+        "score": 0.667,
+        "band": "developing"
+       },
+       "interpret": {
+        "score": 0.25,
+        "band": "weak"
+       }
+      },
+      "strengths": [],
+      "limiting": "_foundational"
+     },
+     "rationale": "Core: overall readiness 50% (first assignment). No secure skill yet. Next: foundations first: re-teach the core concept with scaffolds before calculation and interpretation."
+    },
+    {
+     "student": "Michael",
+     "group": "non-EAL",
+     "mastery": 0.7,
+     "tier": "t2",
+     "language_support": false,
+     "notes": "first assignment",
+     "override": null,
+     "profile": {
+      "skills": {
+       "calculate": {
+        "score": 1.0,
+        "band": "strong"
+       },
+       "concept": {
+        "score": 1.0,
+        "band": "strong"
+       },
+       "interpret": {
+        "score": 0.25,
+        "band": "weak"
+       }
+      },
+      "strengths": [
+       "calculate",
+       "concept"
+      ],
+      "limiting": "interpret"
+     },
+     "rationale": "Core: overall readiness 70% (first assignment). Secure: calculate, concept. Limiting skill: interpret (25%). Next: targeted interpretation task on results the student can already compute, with reduced calculation load. Tier determines challenge level; skill profile determines what happens inside the tier."
+    },
+    {
+     "student": "Nora",
+     "group": "EAL",
+     "mastery": 0.2,
+     "tier": "t1",
+     "language_support": true,
+     "notes": "first assignment",
+     "override": null,
+     "profile": {
+      "skills": {
+       "calculate": {
+        "score": 0.333,
+        "band": "weak"
+       },
+       "concept": {
+        "score": 0.333,
+        "band": "weak"
+       },
+       "interpret": {
+        "score": 0.0,
+        "band": "weak"
+       }
+      },
+      "strengths": [],
+      "limiting": "_foundational"
+     },
+     "rationale": "Bridge: overall readiness 20% (first assignment). No secure skill yet. Next: foundations first: re-teach the core concept with scaffolds before calculation and interpretation."
+    },
+    {
+     "student": "Oliver",
+     "group": "non-EAL",
+     "mastery": 0.9,
+     "tier": "t3",
+     "language_support": false,
+     "notes": "first assignment",
+     "override": null,
+     "profile": {
+      "skills": {
+       "calculate": {
+        "score": 1.0,
+        "band": "strong"
+       },
+       "concept": {
+        "score": 1.0,
+        "band": "strong"
+       },
+       "interpret": {
+        "score": 0.75,
+        "band": "strong"
+       }
+      },
+      "strengths": [
+       "calculate",
+       "concept",
+       "interpret"
+      ],
+      "limiting": null
+     },
+     "rationale": "Stretch: overall readiness 90% (first assignment). Secure: calculate, concept, interpret. No limiting skill this cycle - extend within the tier."
+    }
+   ],
+   "gap": {
+    "gap_pp": -5.4,
+    "mastery": {
+     "EAL": 0.625,
+     "non-EAL": 0.5714285714285714
+    },
+    "item_gaps": {
+     "q1": -1.8,
+     "q2": -3.6,
+     "q3": -17.9,
+     "q4": -1.8,
+     "q5": 8.9,
+     "q6": -3.6,
+     "q7": -17.9,
+     "q8": -35.7,
+     "q9": 3.6,
+     "q10": -3.6
+    },
+    "by_function": {
+     "calculate": 1.2,
+     "concept": -7.8,
+     "interpret": -13.4
+    }
+   }
+  },
+  {
+   "n": 2,
+   "recorded_at": "2026-08-25T19:18:23+00:00",
+   "lesson": {
+    "topic": "Negative Externalities of Consumption - Lesson 1",
+    "functions": {
+     "q1": "concept",
+     "q2": "concept",
+     "q3": "calculate",
+     "q4": "interpret",
+     "q5": "interpret"
+    }
+   },
+   "absent": [],
+   "assignments": [
+    {
+     "student": "Alex",
+     "group": "EAL",
+     "mastery": 1.0,
+     "tier": "t3",
+     "language_support": true,
+     "notes": "moves up",
+     "override": null,
+     "profile": {
+      "skills": {
+       "calculate": {
+        "score": 1.0,
+        "band": "strong"
+       },
+       "concept": {
+        "score": 1.0,
+        "band": "strong"
+       },
+       "interpret": {
+        "score": 1.0,
+        "band": "strong"
+       }
+      },
+      "strengths": [
+       "calculate",
+       "concept",
+       "interpret"
+      ],
+      "limiting": null
+     },
+     "rationale": "Stretch: overall readiness 100% (moves up). Secure: calculate, concept, interpret. No limiting skill this cycle - extend within the tier."
+    },
+    {
+     "student": "Ben",
+     "group": "non-EAL",
+     "mastery": 1.0,
+     "tier": "t3",
+     "language_support": false,
+     "notes": "stays",
+     "override": null,
+     "profile": {
+      "skills": {
+       "calculate": {
+        "score": 1.0,
+        "band": "strong"
+       },
+       "concept": {
+        "score": 1.0,
+        "band": "strong"
+       },
+       "interpret": {
+        "score": 1.0,
+        "band": "strong"
+       }
+      },
+      "strengths": [
+       "calculate",
+       "concept",
+       "interpret"
+      ],
+      "limiting": null
+     },
+     "rationale": "Stretch: overall readiness 100% (stays). Secure: calculate, concept, interpret. No limiting skill this cycle - extend within the tier."
+    },
+    {
+     "student": "Chloe",
+     "group": "EAL",
+     "mastery": 0.6,
+     "tier": "t2",
+     "language_support": true,
+     "notes": "stays",
+     "override": null,
+     "profile": {
+      "skills": {
+       "calculate": {
+        "score": 1.0,
+        "band": "strong"
+       },
+       "concept": {
+        "score": 0.5,
+        "band": "developing"
+       },
+       "interpret": {
+        "score": 0.5,
+        "band": "developing"
+       }
+      },
+      "strengths": [
+       "calculate"
+      ],
+      "limiting": "concept"
+     },
+     "rationale": "Core: overall readiness 60% (stays). Secure: calculate. Limiting skill: concept (50%). Next: re-anchor core definitions with a quick concept check before new content. Tier determines challenge level; skill profile determines what happens inside the tier."
+    },
+    {
+     "student": "Daniel",
+     "group": "non-EAL",
+     "mastery": 0.4,
+     "tier": "t1",
+     "language_support": false,
+     "notes": "stays",
+     "override": null,
+     "profile": {
+      "skills": {
+       "calculate": {
+        "score": 1.0,
+        "band": "strong"
+       },
+       "concept": {
+        "score": 0.5,
+        "band": "developing"
+       },
+       "interpret": {
+        "score": 0.0,
+        "band": "weak"
+       }
+      },
+      "strengths": [
+       "calculate"
+      ],
+      "limiting": "interpret"
+     },
+     "rationale": "Bridge: overall readiness 40% (stays). Secure: calculate. Limiting skill: interpret (0%). Next: targeted interpretation task on results the student can already compute, with reduced calculation load."
+    },
+    {
+     "student": "Emma",
+     "group": "EAL",
+     "mastery": 1.0,
+     "tier": "t3",
+     "language_support": true,
+     "notes": "stays",
+     "override": null,
+     "profile": {
+      "skills": {
+       "calculate": {
+        "score": 1.0,
+        "band": "strong"
+       },
+       "concept": {
+        "score": 1.0,
+        "band": "strong"
+       },
+       "interpret": {
+        "score": 1.0,
+        "band": "strong"
+       }
+      },
+      "strengths": [
+       "calculate",
+       "concept",
+       "interpret"
+      ],
+      "limiting": null
+     },
+     "rationale": "Stretch: overall readiness 100% (stays). Secure: calculate, concept, interpret. No limiting skill this cycle - extend within the tier."
+    },
+    {
+     "student": "Farah",
+     "group": "EAL",
+     "mastery": 0.6,
+     "tier": "t2",
+     "language_support": true,
+     "notes": "moves down - re-teach before re-testing",
+     "override": null,
+     "profile": {
+      "skills": {
+       "calculate": {
+        "score": 0.0,
+        "band": "weak"
+       },
+       "concept": {
+        "score": 1.0,
+        "band": "strong"
+       },
+       "interpret": {
+        "score": 0.5,
+        "band": "developing"
+       }
+      },
+      "strengths": [
+       "concept"
+      ],
+      "limiting": "calculate"
+     },
+     "rationale": "Core: overall readiness 60% (moves down - re-teach before re-testing). Secure: concept. Limiting skill: calculate (0%). Next: worked example, then faded practice of the calculation routine. Tier determines challenge level; skill profile determines what happens inside the tier."
+    },
+    {
+     "student": "George",
+     "group": "non-EAL",
+     "mastery": 0.2,
+     "tier": "t1",
+     "language_support": false,
+     "notes": "stays",
+     "override": null,
+     "profile": {
+      "skills": {
+       "calculate": {
+        "score": 0.0,
+        "band": "weak"
+       },
+       "concept": {
+        "score": 0.5,
+        "band": "developing"
+       },
+       "interpret": {
+        "score": 0.0,
+        "band": "weak"
+       }
+      },
+      "strengths": [],
+      "limiting": "_foundational"
+     },
+     "rationale": "Bridge: overall readiness 20% (stays). No secure skill yet. Next: foundations first: re-teach the core concept with scaffolds before calculation and interpretation."
+    },
+    {
+     "student": "Hannah",
+     "group": "EAL",
+     "mastery": 0.8,
+     "tier": "t3",
+     "language_support": true,
+     "notes": "stays",
+     "override": null,
+     "profile": {
+      "skills": {
+       "calculate": {
+        "score": 1.0,
+        "band": "strong"
+       },
+       "concept": {
+        "score": 1.0,
+        "band": "strong"
+       },
+       "interpret": {
+        "score": 0.5,
+        "band": "developing"
+       }
+      },
+      "strengths": [
+       "calculate",
+       "concept"
+      ],
+      "limiting": "interpret"
+     },
+     "rationale": "Stretch: overall readiness 80% (stays). Secure: calculate, concept. Limiting skill: interpret (50%). Next: targeted interpretation task on results the student can already compute, with reduced calculation load. Tier determines challenge level; skill profile determines what happens inside the tier."
+    },
+    {
+     "student": "Ivan",
+     "group": "non-EAL",
+     "mastery": 0.4,
+     "tier": "t1",
+     "language_support": false,
+     "notes": "moves down - re-teach before re-testing",
+     "override": null,
+     "profile": {
+      "skills": {
+       "calculate": {
+        "score": 0.0,
+        "band": "weak"
+       },
+       "concept": {
+        "score": 0.5,
+        "band": "developing"
+       },
+       "interpret": {
+        "score": 0.5,
+        "band": "developing"
+       }
+      },
+      "strengths": [],
+      "limiting": "_foundational"
+     },
+     "rationale": "Bridge: overall readiness 40% (moves down - re-teach before re-testing). No secure skill yet. Next: foundations first: re-teach the core concept with scaffolds before calculation and interpretation."
+    },
+    {
+     "student": "Julia",
+     "group": "EAL",
+     "mastery": 1.0,
+     "tier": "t3",
+     "language_support": true,
+     "notes": "stays",
+     "override": null,
+     "profile": {
+      "skills": {
+       "calculate": {
+        "score": 1.0,
+        "band": "strong"
+       },
+       "concept": {
+        "score": 1.0,
+        "band": "strong"
+       },
+       "interpret": {
+        "score": 1.0,
+        "band": "strong"
+       }
+      },
+      "strengths": [
+       "calculate",
+       "concept",
+       "interpret"
+      ],
+      "limiting": null
+     },
+     "rationale": "Stretch: overall readiness 100% (stays). Secure: calculate, concept, interpret. No limiting skill this cycle - extend within the tier."
+    },
+    {
+     "student": "Kevin",
+     "group": "non-EAL",
+     "mastery": 1.0,
+     "tier": "t3",
+     "language_support": false,
+     "notes": "moves up",
+     "override": null,
+     "profile": {
+      "skills": {
+       "calculate": {
+        "score": 1.0,
+        "band": "strong"
+       },
+       "concept": {
+        "score": 1.0,
+        "band": "strong"
+       },
+       "interpret": {
+        "score": 1.0,
+        "band": "strong"
+       }
+      },
+      "strengths": [
+       "calculate",
+       "concept",
+       "interpret"
+      ],
+      "limiting": null
+     },
+     "rationale": "Stretch: overall readiness 100% (moves up). Secure: calculate, concept, interpret. No limiting skill this cycle - extend within the tier."
+    },
+    {
+     "student": "Lina",
+     "group": "EAL",
+     "mastery": 0.4,
+     "tier": "t2",
+     "language_support": true,
+     "notes": "teacher override: Oral explanation demonstrates secure understanding of the externality mechanism and tax incidence. Written response is limited by English expression rather than economic readiness. Keep at Core with bilingual glossary and oral rehearsal before writing. (rule said t1)",
+     "override": {
+      "rule_tier": "t1",
+      "reason": "Oral explanation demonstrates secure understanding of the externality mechanism and tax incidence. Written response is limited by English expression rather than economic readiness. Keep at Core with bilingual glossary and oral rehearsal before writing."
+     },
+     "profile": {
+      "skills": {
+       "calculate": {
+        "score": 1.0,
+        "band": "strong"
+       },
+       "concept": {
+        "score": 0.5,
+        "band": "developing"
+       },
+       "interpret": {
+        "score": 0.0,
+        "band": "weak"
+       }
+      },
+      "strengths": [
+       "calculate"
+      ],
+      "limiting": "interpret"
+     },
+     "rationale": "Core by teacher override (rule said Bridge): Oral explanation demonstrates secure understanding of the externality mechanism and tax incidence. Written response is limited by English expression rather than economic readiness. Keep at Core with bilingual glossary and oral rehearsal before writing.. Written-ticket profile for reference: calculate 100%, concept 50%, interpret 0%. Teacher's direct evidence takes precedence for tiering."
+    },
+    {
+     "student": "Michael",
+     "group": "non-EAL",
+     "mastery": 0.6,
+     "tier": "t2",
+     "language_support": false,
+     "notes": "stays",
+     "override": null,
+     "profile": {
+      "skills": {
+       "calculate": {
+        "score": 1.0,
+        "band": "strong"
+       },
+       "concept": {
+        "score": 1.0,
+        "band": "strong"
+       },
+       "interpret": {
+        "score": 0.0,
+        "band": "weak"
+       }
+      },
+      "strengths": [
+       "calculate",
+       "concept"
+      ],
+      "limiting": "interpret"
+     },
+     "rationale": "Core: overall readiness 60% (stays). Secure: calculate, concept. Limiting skill: interpret (0%). Next: targeted interpretation task on results the student can already compute, with reduced calculation load. Tier determines challenge level; skill profile determines what happens inside the tier."
+    },
+    {
+     "student": "Nora",
+     "group": "EAL",
+     "mastery": 0.2,
+     "tier": "t1",
+     "language_support": true,
+     "notes": "stays",
+     "override": null,
+     "profile": {
+      "skills": {
+       "calculate": {
+        "score": 0.0,
+        "band": "weak"
+       },
+       "concept": {
+        "score": 0.5,
+        "band": "developing"
+       },
+       "interpret": {
+        "score": 0.0,
+        "band": "weak"
+       }
+      },
+      "strengths": [],
+      "limiting": "_foundational"
+     },
+     "rationale": "Bridge: overall readiness 20% (stays). No secure skill yet. Next: foundations first: re-teach the core concept with scaffolds before calculation and interpretation."
+    },
+    {
+     "student": "Oliver",
+     "group": "non-EAL",
+     "mastery": 1.0,
+     "tier": "t3",
+     "language_support": false,
+     "notes": "stays",
+     "override": null,
+     "profile": {
+      "skills": {
+       "calculate": {
+        "score": 1.0,
+        "band": "strong"
+       },
+       "concept": {
+        "score": 1.0,
+        "band": "strong"
+       },
+       "interpret": {
+        "score": 1.0,
+        "band": "strong"
+       }
+      },
+      "strengths": [
+       "calculate",
+       "concept",
+       "interpret"
+      ],
+      "limiting": null
+     },
+     "rationale": "Stretch: overall readiness 100% (stays). Secure: calculate, concept, interpret. No limiting skill this cycle - extend within the tier."
+    }
+   ],
+   "gap": {
+    "gap_pp": -7.1,
+    "mastery": {
+     "EAL": 0.5,
+     "non-EAL": 0.42857142857142855
+    },
+    "item_gaps": {
+     "q1": -16.1,
+     "q2": 10.7,
+     "q3": -3.6,
+     "q4": -19.6,
+     "q5": 7.1
+    },
+    "by_function": {
+     "calculate": -3.6,
+     "concept": -2.7,
+     "interpret": -6.3
+    }
+   }
+  }
+ ]
+}

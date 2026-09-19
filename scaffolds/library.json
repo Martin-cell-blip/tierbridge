@@ -1,0 +1,68 @@
+{
+  "tiers": {
+    "t1": {
+      "name": "Foundation",
+      "audience": "EAL / developing English",
+      "scaffolds": ["bilingual glossary", "sentence starters", "chunked input", "labelled visuals"],
+      "principle": "Same objective, maximum language support. Support the language, never lower the thinking."
+    },
+    "t2": {
+      "name": "Core",
+      "audience": "most students",
+      "scaffolds": ["English glossary", "sentence frames", "guided steps"],
+      "principle": "Same objective, partial support: frames without word banks."
+    },
+    "t3": {
+      "name": "Extension",
+      "audience": "confident English users",
+      "scaffolds": ["open response", "challenge prompt"],
+      "principle": "Same objective, no language support, plus a transfer/challenge task."
+    }
+  },
+  "sentence_frames": {
+    "define": {
+      "t1": ["____ means ____.", "In this topic, ____ is ____."],
+      "t2": ["____ is defined as ____, which matters here because ____."]
+    },
+    "describe": {
+      "t1": ["The ____ goes up / goes down when ____.", "First ____, then ____."],
+      "t2": ["When ____ increases, ____ because ____."]
+    },
+    "explain": {
+      "t1": ["____ happens because ____.", "One reason for ____ is ____."],
+      "t2": ["____ leads to ____, which then causes ____."]
+    },
+    "compare": {
+      "t1": ["____ and ____ are similar because ____.", "____ is different from ____ because ____."],
+      "t2": ["While ____ results in ____, ____ instead results in ____."]
+    },
+    "calculate": {
+      "t1": ["Step 1: write the formula ____. Step 2: put in the numbers ____. Step 3: the answer is ____."],
+      "t2": ["Using ____, the value is ____, which tells us ____."]
+    },
+    "evaluate": {
+      "t1": ["I think ____ because ____.", "A good point is ____. A problem is ____."],
+      "t2": ["The strongest argument for ____ is ____; however, ____, so overall ____."]
+    },
+    "interpret": {
+      "t1": ["The number ____ tells us ____.", "This result means ____."],
+      "t2": ["A value of ____ suggests ____, because ____."]
+    }
+  },
+  "teacher_moves": {
+    "t1": [
+      "Pre-teach the glossary orally before the task (choral repeat, 2 minutes).",
+      "Pair a t1 student with a t2 partner for the check step.",
+      "Accept answers using the frames verbatim - fluency comes after accuracy."
+    ],
+    "t2": [
+      "Push students to replace frame language with their own words in the last task.",
+      "Cold-call for the 'because' clause - that is where the thinking lives."
+    ],
+    "t3": [
+      "Do not let t3 finish early and idle: the challenge task is not optional.",
+      "Ask t3 students to explain their answer to a t1/t2 peer as a final check."
+    ],
+    "fading": "Scaffolds must fade: next lesson on the same skill, move t1 frames toward t2 frames. A scaffold still present after mastery is a crutch."
+  }
+}

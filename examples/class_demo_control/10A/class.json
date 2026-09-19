@@ -1,0 +1,355 @@
+{
+ "name": "10A Economics (control)",
+ "created_at": "2026-08-25T18:17:17+00:00",
+ "roster": [
+  {
+   "student": "Ivy",
+   "eal": true
+  },
+  {
+   "student": "Jun",
+   "eal": true
+  },
+  {
+   "student": "Kai",
+   "eal": true
+  },
+  {
+   "student": "Leo",
+   "eal": false
+  },
+  {
+   "student": "Mia",
+   "eal": false
+  },
+  {
+   "student": "Nora",
+   "eal": false
+  },
+  {
+   "student": "Omar",
+   "eal": false
+  },
+  {
+   "student": "Pia",
+   "eal": false
+  }
+ ],
+ "sessions": [
+  {
+   "n": 1,
+   "recorded_at": "2026-08-25T18:17:17+00:00",
+   "lesson": {
+    "topic": "Price elasticity of demand (PED)",
+    "objective": "Calculate price elasticity of demand and use the result to predict how a price change affects a firm's total revenue.",
+    "functions": {
+     "q1": "define",
+     "q2": "calculate",
+     "q3": "interpret"
+    }
+   },
+   "absent": [],
+   "assignments": [
+    {
+     "student": "Ivy",
+     "group": "EAL",
+     "mastery": 0.333,
+     "tier": "t1",
+     "language_support": true,
+     "notes": "first assignment",
+     "override": null
+    },
+    {
+     "student": "Jun",
+     "group": "EAL",
+     "mastery": 0.667,
+     "tier": "t2",
+     "language_support": true,
+     "notes": "first assignment",
+     "override": null
+    },
+    {
+     "student": "Kai",
+     "group": "EAL",
+     "mastery": 0.333,
+     "tier": "t1",
+     "language_support": true,
+     "notes": "first assignment",
+     "override": null
+    },
+    {
+     "student": "Leo",
+     "group": "non-EAL",
+     "mastery": 1.0,
+     "tier": "t3",
+     "language_support": false,
+     "notes": "first assignment",
+     "override": null
+    },
+    {
+     "student": "Mia",
+     "group": "non-EAL",
+     "mastery": 0.667,
+     "tier": "t2",
+     "language_support": false,
+     "notes": "first assignment",
+     "override": null
+    },
+    {
+     "student": "Nora",
+     "group": "non-EAL",
+     "mastery": 1.0,
+     "tier": "t3",
+     "language_support": false,
+     "notes": "first assignment",
+     "override": null
+    },
+    {
+     "student": "Omar",
+     "group": "non-EAL",
+     "mastery": 0.667,
+     "tier": "t2",
+     "language_support": false,
+     "notes": "first assignment",
+     "override": null
+    },
+    {
+     "student": "Pia",
+     "group": "non-EAL",
+     "mastery": 1.0,
+     "tier": "t3",
+     "language_support": false,
+     "notes": "first assignment",
+     "override": null
+    }
+   ],
+   "gap": {
+    "gap_pp": 66.7,
+    "mastery": {
+     "EAL": 0.3333333333333333,
+     "non-EAL": 1.0
+    },
+    "item_gaps": {
+     "q1": 0.0,
+     "q2": 66.7,
+     "q3": 60.0
+    },
+    "by_function": {
+     "calculate": 66.7,
+     "define": 0.0,
+     "interpret": 60.0
+    }
+   }
+  },
+  {
+   "n": 2,
+   "recorded_at": "2026-08-25T18:17:18+00:00",
+   "lesson": {
+    "topic": "Price elasticity of demand (PED)",
+    "objective": "Calculate price elasticity of demand and use the result to predict how a price change affects a firm's total revenue.",
+    "functions": {
+     "q1": "define",
+     "q2": "calculate",
+     "q3": "interpret"
+    }
+   },
+   "absent": [],
+   "assignments": [
+    {
+     "student": "Ivy",
+     "group": "EAL",
+     "mastery": 0.333,
+     "tier": "t1",
+     "language_support": true,
+     "notes": "stays",
+     "override": null
+    },
+    {
+     "student": "Jun",
+     "group": "EAL",
+     "mastery": 0.667,
+     "tier": "t2",
+     "language_support": true,
+     "notes": "stays",
+     "override": null
+    },
+    {
+     "student": "Kai",
+     "group": "EAL",
+     "mastery": 0.333,
+     "tier": "t1",
+     "language_support": true,
+     "notes": "stays",
+     "override": null
+    },
+    {
+     "student": "Leo",
+     "group": "non-EAL",
+     "mastery": 1.0,
+     "tier": "t3",
+     "language_support": false,
+     "notes": "stays",
+     "override": null
+    },
+    {
+     "student": "Mia",
+     "group": "non-EAL",
+     "mastery": 0.667,
+     "tier": "t2",
+     "language_support": false,
+     "notes": "stays",
+     "override": null
+    },
+    {
+     "student": "Nora",
+     "group": "non-EAL",
+     "mastery": 1.0,
+     "tier": "t3",
+     "language_support": false,
+     "notes": "stays",
+     "override": null
+    },
+    {
+     "student": "Omar",
+     "group": "non-EAL",
+     "mastery": 1.0,
+     "tier": "t3",
+     "language_support": false,
+     "notes": "moves up",
+     "override": null
+    },
+    {
+     "student": "Pia",
+     "group": "non-EAL",
+     "mastery": 0.667,
+     "tier": "t2",
+     "language_support": false,
+     "notes": "moves down - re-teach before re-testing",
+     "override": null
+    }
+   ],
+   "gap": {
+    "gap_pp": 66.7,
+    "mastery": {
+     "EAL": 0.3333333333333333,
+     "non-EAL": 1.0
+    },
+    "item_gaps": {
+     "q1": 33.3,
+     "q2": 33.3,
+     "q3": 60.0
+    },
+    "by_function": {
+     "calculate": 33.3,
+     "define": 33.3,
+     "interpret": 60.0
+    }
+   }
+  },
+  {
+   "n": 3,
+   "recorded_at": "2026-08-25T18:17:18+00:00",
+   "lesson": {
+    "topic": "Price elasticity of demand (PED)",
+    "objective": "Calculate price elasticity of demand and use the result to predict how a price change affects a firm's total revenue.",
+    "functions": {
+     "q1": "define",
+     "q2": "calculate",
+     "q3": "interpret"
+    }
+   },
+   "absent": [],
+   "assignments": [
+    {
+     "student": "Ivy",
+     "group": "EAL",
+     "mastery": 0.333,
+     "tier": "t1",
+     "language_support": true,
+     "notes": "stays",
+     "override": null
+    },
+    {
+     "student": "Jun",
+     "group": "EAL",
+     "mastery": 0.667,
+     "tier": "t2",
+     "language_support": true,
+     "notes": "stays",
+     "override": null
+    },
+    {
+     "student": "Kai",
+     "group": "EAL",
+     "mastery": 0.333,
+     "tier": "t1",
+     "language_support": true,
+     "notes": "stays",
+     "override": null
+    },
+    {
+     "student": "Leo",
+     "group": "non-EAL",
+     "mastery": 1.0,
+     "tier": "t3",
+     "language_support": false,
+     "notes": "stays",
+     "override": null
+    },
+    {
+     "student": "Mia",
+     "group": "non-EAL",
+     "mastery": 0.667,
+     "tier": "t2",
+     "language_support": false,
+     "notes": "stays",
+     "override": null
+    },
+    {
+     "student": "Nora",
+     "group": "non-EAL",
+     "mastery": 1.0,
+     "tier": "t3",
+     "language_support": false,
+     "notes": "stays",
+     "override": null
+    },
+    {
+     "student": "Omar",
+     "group": "non-EAL",
+     "mastery": 0.667,
+     "tier": "t2",
+     "language_support": false,
+     "notes": "moves down - re-teach before re-testing",
+     "override": null
+    },
+    {
+     "student": "Pia",
+     "group": "non-EAL",
+     "mastery": 1.0,
+     "tier": "t3",
+     "language_support": false,
+     "notes": "moves up",
+     "override": null
+    }
+   ],
+   "gap": {
+    "gap_pp": 66.7,
+    "mastery": {
+     "EAL": 0.3333333333333333,
+     "non-EAL": 1.0
+    },
+    "item_gaps": {
+     "q1": 0.0,
+     "q2": 66.7,
+     "q3": 60.0
+    },
+    "by_function": {
+     "calculate": 66.7,
+     "define": 0.0,
+     "interpret": 60.0
+    }
+   }
+  }
+ ]
+}

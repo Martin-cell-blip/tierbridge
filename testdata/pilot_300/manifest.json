@@ -1,0 +1,22 @@
+{
+  "fixture": "pilot_300",
+  "seed": 20260825,
+  "students": 300,
+  "eal_students": 120,
+  "non_eal_students": 180,
+  "lessons": 6,
+  "assessment_functions": [
+    "concept",
+    "calculate",
+    "interpret"
+  ],
+  "contains": {
+    "absences": 27,
+    "teacher_overrides": 3,
+    "econlens_rq_cases": 3,
+    "econlens_claim_cases": 3,
+    "econlens_evaluation_cases": 2,
+    "econlens_draft_cases": 2,
+    "edulab_students": 300
+  }
+}

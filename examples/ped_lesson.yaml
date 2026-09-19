@@ -1,0 +1,110 @@
+# TierBridge lesson file — fully authored example (economics, IGCSE/pre-IB level)
+subject: Economics (Year 10, English-medium)
+topic: Price elasticity of demand (PED)
+level: IGCSE / pre-IB
+objective: >-
+  Calculate price elasticity of demand and use the result to predict how a price
+  change affects a firm's total revenue.
+success_criteria:
+  - Define PED and state its formula
+  - Calculate PED from percentage changes and classify demand as elastic or inelastic
+  - Predict the effect of a price change on total revenue and justify the prediction
+
+key_terms:
+  - term: price elasticity of demand (PED)
+    definition: How much quantity demanded responds to a change in price
+    zh: 需求价格弹性
+  - term: elastic demand
+    definition: PED > 1; quantity changes by a larger percentage than price
+    zh: 富有弹性的需求
+  - term: inelastic demand
+    definition: PED < 1; quantity changes by a smaller percentage than price
+    zh: 缺乏弹性的需求
+  - term: total revenue
+    definition: Price x quantity sold
+    zh: 总收益
+  - term: percentage change
+    definition: (new - old) / old x 100
+    zh: 百分比变化
+  - term: substitute
+    definition: A product buyers can switch to instead
+    zh: 替代品
+
+source_text: >-
+  A bubble-tea shop near the school raised the price of its classic milk tea
+  from $4.00 to $5.00. In the following month, cups sold per week fell from
+  600 to 480. The shop next door sells a similar drink for $4.00.
+
+worksheets:
+  t1:
+    tasks:
+      - title: "Task 1: What is PED?"
+        instructions: >-
+          Use the glossary. Complete each sentence with a term from the glossary,
+          then say your two sentences to your partner.
+        frames:
+          - "PED means how much ____ changes when ____ changes."
+          - "The formula is PED = % change in ____ ÷ % change in ____."
+      - title: "Task 2: Calculate step by step"
+        instructions: >-
+          The price went from $4.00 to $5.00. Cups fell from 600 to 480.
+          Follow the three steps to find PED.
+        frames:
+          - "Step 1: % change in price = (5 - 4) ÷ 4 × 100 = ____%."
+          - "Step 2: % change in quantity = (480 - 600) ÷ 600 × 100 = ____%."
+          - "Step 3: PED = ____ ÷ ____ = ____. Demand is elastic / inelastic (circle one)."
+      - title: "Task 3: What happens to revenue?"
+        instructions: >-
+          Calculate total revenue before and after the price rise
+          (revenue = price × cups). Then complete the sentence.
+        frames:
+          - "Before: $4.00 × 600 = $____. After: $5.00 × 480 = $____."
+          - "Revenue went up / went down because demand is ____."
+  t2:
+    tasks:
+      - title: "Task 1: Define and formula"
+        instructions: >-
+          Define PED in your own words and write its formula. Then explain, in one
+          sentence, why the shop next door matters for this shop's PED.
+        frames:
+          - "PED is defined as ____, which matters here because ____."
+      - title: "Task 2: Calculate and classify"
+        instructions: >-
+          Using the article's numbers, calculate PED for the milk tea. Show your
+          working. Classify demand as elastic or inelastic and give one reason
+          based on the article.
+        frames:
+          - "When price rises by ____%, quantity falls by ____%, so PED = ____."
+      - title: "Task 3: Revenue prediction"
+        instructions: >-
+          Calculate total revenue before and after the price change. Explain the
+          link between your PED value and the direction revenue moved.
+        frames:
+          - "Because PED is ____, raising price causes revenue to ____ because ____."
+  t3:
+    tasks:
+      - title: "Task 1: Full analysis"
+        instructions: >-
+          Calculate PED for the milk tea, classify demand, and explain the revenue
+          change - all in a single short paragraph with your working shown.
+      - title: "Task 2: Determinants"
+        instructions: >-
+          The shop next door sells a similar drink for $4.00. Explain how this
+          affects the PED you calculated, and name one other determinant that
+          could change the shop's PED over time.
+      - title: "Challenge: transfer"
+        instructions: >-
+          The school canteen is the only place selling hot lunch on campus.
+          Predict whether its PED is higher or lower than the bubble-tea shop's,
+          and what that means for its pricing power. Justify with two reasons.
+
+exit_ticket:
+  - question: "State the formula for PED."
+    function: define
+    answer_note: "% change in quantity demanded ÷ % change in price"
+  - question: "Price rises 25% and quantity falls 20%. Calculate PED and classify demand."
+    function: calculate
+    answer_note: "PED = 20/25 = 0.8, inelastic (accept -0.8 with sign convention noted)"
+  - question: "For this product, will the price rise increase or decrease total revenue? Explain in one sentence."
+    function: interpret
+    answer_note: "Inelastic -> price rise increases revenue; the % fall in quantity is smaller than the % rise in price"

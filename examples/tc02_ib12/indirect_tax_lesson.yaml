@@ -1,0 +1,46 @@
+# IB Economics HL Y12 - Indirect Tax & Market Failure (exit-ticket function mapping)
+subject: IB Economics HL (Year 12, English-medium)
+topic: Indirect Tax & Market Failure
+level: IBDP
+objective: >-
+  Explain how an indirect tax corrects overconsumption of a demerit good,
+  calculate its effects on price and quantity, and interpret the welfare
+  consequences for different stakeholders.
+success_criteria:
+  - Define indirect tax and negative externality of consumption accurately
+  - Calculate the effect of a specific tax on equilibrium price and quantity
+  - Interpret the welfare impact of the tax for consumers, producers and government
+
+key_terms:
+  - term: indirect tax
+    definition: A tax on spending, collected from sellers
+    zh: 间接税
+  - term: specific tax
+    definition: A fixed amount of tax per unit sold
+    zh: 从量税
+  - term: negative externality
+    definition: A cost imposed on third parties not reflected in market price
+    zh: 负外部性
+  - term: welfare loss
+    definition: The loss of total surplus when output is not at the social optimum
+    zh: 福利损失
+  - term: incidence
+    definition: How the burden of a tax is shared between buyers and sellers
+    zh: 税负归宿
+
+exit_ticket:
+  - question: "Define an indirect tax and give one example."
+    function: define
+    answer_note: "Tax on spending collected from sellers; e.g. a per-litre tax on sugary drinks"
+  - question: "State what a negative externality of consumption is."
+    function: define
+    answer_note: "Cost on third parties from consumption, MSB < MPB"
+  - question: "A $2 specific tax shifts supply up by $2. If price rises from $6 to $7.20, calculate the consumer share of the tax."
+    function: calculate
+    answer_note: "1.20/2 = 60%"
+  - question: "Using the same figures, calculate the producer's share of the tax per unit."
+    function: calculate
+    answer_note: "0.80 per unit = 40%"
+  - question: "Interpret what the change in equilibrium quantity means for the welfare loss identified before the tax."
+    function: interpret
+    answer_note: "Quantity moves toward social optimum; welfare loss shrinks but is not necessarily eliminated"

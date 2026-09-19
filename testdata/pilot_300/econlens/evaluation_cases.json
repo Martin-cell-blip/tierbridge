@@ -1,0 +1,12 @@
+[
+  {
+    "id": "EV001",
+    "draft": "The tax raises price, which reduces quantity demanded. Lower consumption may reduce the external cost. Therefore, the policy is effective.",
+    "expected": "check_mechanism_consequence_judgement"
+  },
+  {
+    "id": "EV002",
+    "draft": "The tax is effective because sales fell. Therefore, the government should increase it.",
+    "expected": "missing_evaluation_chain"
+  }
+]

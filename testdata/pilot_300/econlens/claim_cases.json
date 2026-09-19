@@ -1,0 +1,17 @@
+[
+  {
+    "id": "CL001",
+    "draft": "The tax increases price and reduces quantity demanded. Therefore, consumption falls.",
+    "expected": "supported_or_partially_supported"
+  },
+  {
+    "id": "CL002",
+    "draft": "The tax reduced sales by 20%. Therefore, it improved welfare for everyone.",
+    "expected": "overreach"
+  },
+  {
+    "id": "CL003",
+    "draft": "Sales fell by 20%. However, the evidence does not isolate the tax effect.",
+    "expected": "mastery_aware"
+  }
+]

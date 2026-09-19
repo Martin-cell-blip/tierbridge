@@ -1,0 +1,12 @@
+[
+  {
+    "id": "DR001",
+    "draft": "The tax increases price. Quantity demanded falls. This may reduce consumption, although other factors could also explain the change.",
+    "expected": "good_with_opportunity"
+  },
+  {
+    "id": "DR002",
+    "draft": "The tax definitely improves welfare for every stakeholder.",
+    "expected": "critical_overreach"
+  }
+]

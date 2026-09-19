@@ -1,0 +1,15 @@
+student,group,q1,q2,q3
+S01,EAL,1,1,0
+S02,EAL,1,0,0
+S03,EAL,1,1,1
+S04,EAL,0,1,0
+S05,EAL,1,0,1
+S06,EAL,1,1,0
+S07,non-EAL,1,1,1
+S08,non-EAL,1,1,0
+S09,non-EAL,1,0,1
+S10,non-EAL,1,1,1
+S11,non-EAL,0,1,1
+S12,non-EAL,1,1,1
+S13,non-EAL,1,0,0
+S14,non-EAL,1,1,1

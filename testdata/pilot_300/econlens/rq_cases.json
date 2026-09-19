@@ -1,0 +1,17 @@
+[
+  {
+    "id": "RQ001",
+    "text": "How does the sugar tax affect consumption of sugary drinks?",
+    "expected": "pass_or_info"
+  },
+  {
+    "id": "RQ002",
+    "text": "Is the sugar tax good?",
+    "expected": "needs_work"
+  },
+  {
+    "id": "RQ003",
+    "text": "How does the tax affect price elasticity of demand for sugary drinks?",
+    "expected": "pass"
+  }
+]
